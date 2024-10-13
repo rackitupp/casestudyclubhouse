@@ -1,4 +1,4 @@
-Clubhouse Case Study
+Clubhouse Case Study :
 This project presents a comprehensive analysis of Clubhouse, the audio-based social media platform that surged in popularity during the COVID-19 pandemic. The case study explores key challenges faced by Clubhouse, including the loss of exclusivity, monetization struggles, intense competition, and lack of feature innovation. It provides strategic recommendations to help the platform regain its foothold in the competitive social media landscape.
 
 Key Highlights:
